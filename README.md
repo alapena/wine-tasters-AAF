@@ -12,7 +12,6 @@ Create a python or conda enviroment, activate it and install the dependencies by
 pip install -r requirements.txt
 ```
 
-Enjoy the project!
 
 # The project
 In this repo you will find two main notebooks: `1_classification.ipynb` and `2_regression.ipynb`. You should follow that order when going through them, although each is self-contained.
