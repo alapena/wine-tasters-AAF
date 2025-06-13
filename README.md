@@ -1,6 +1,6 @@
 # Wine tasters
 ### Group: AAF
-### Autors: Ángel Lapeña, Alba Quiñones, Frederico Simoês
+### Autors: Ángel Lapeña, Alba Quiñones, Frederico Simões
 ### Description:
 
 This is the final project of the ml-intro-course-spring2025 from ICN2. In this work we aim to develop a Machine Learning tool, based in scikit-learn, to predict the score of the quality of the wine, given some physical-chemical properties. To do so, we used [this](https://archive.ics.uci.edu/dataset/186/wine+quality) dataset to train the models. 
